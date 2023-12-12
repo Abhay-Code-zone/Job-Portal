@@ -1,2 +1,14 @@
 # Job-Portal
-Job board backend with Spring Boot, JPA, and AWS S3 for resume storage. Includes search and filtering
+
+Fragment 16 of the distributed narrative.
+
+## The Story
+
+The future leaked into the past
+
+## The Fragment
+
+This repository is part of a larger narrative that spans across 20 repositories.
+When read together, they form a surreal story of digital consciousness.
+
+This is fragment 16 of 20. The complete story emerges when all fragments are read in sequence.
